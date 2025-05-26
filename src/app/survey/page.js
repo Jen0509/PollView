@@ -23,7 +23,7 @@ export default function SurveyPage() {
     localStorage.setItem("surveyData", JSON.stringify(existing));
 
     alert("설문이 저장되었습니다!");
-    router.push("/statistic");
+    router.push("/PollView/statistic");
   };
 
   return (

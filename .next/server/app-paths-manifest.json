@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/statistic/page": "app/statistic/page.js",
+  "/survey/page": "app/survey/page.js"
+}

@@ -11,13 +11,13 @@ export default function HomePage() {
         <p className="text-gray-600 mb-8">참여하고 결과를 확인해보세요!</p>
         <div className="space-y-4">
           <Link
-            href="/survey"
+            href="/PollView/survey"
             className="block w-full bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 rounded-lg transition duration-200"
           >
             📋 설문 참여
           </Link>
           <Link
-            href="/statistic"
+            href="/PollView/statistic"
             className="block w-full bg-green-500 hover:bg-green-600 text-white font-semibold py-3 rounded-lg transition duration-200"
           >
             📊 통계 보기
