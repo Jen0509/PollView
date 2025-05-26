@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jen0509.github.io/PollView",
+  "homepage": "https://jen0509.github.io/PollView",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
